@@ -13,8 +13,9 @@ Two datasets are attached Trained Dataset which is knowledge base or Dictionary.
 7.  Store the results (Output)
 8.  Return the output and Display in Swagger UI
 9.  Run the Application
-10. Copy one record from testing dataset 325_problems.xlsx --->> Enter Problem
-11. Swagger UI will display the output in Response body
-12. -------------Like and Smile Please--------------
+10. Copy one record from testing dataset 325_problems.xlsx --->> Column Name Enter Problem
+11. Click on Try it Out --> Enter in ProblemDisplayName --> Click on Execute -->
+12. Swagger UI will display the output in Response body
+13. -------------Like and Smile Please--------------
 
 ---END---
